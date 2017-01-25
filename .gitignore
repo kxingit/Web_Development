@@ -1,2 +1,5 @@
 # vim temp files
 *.swp
+
+# nfs temp files
+.nfs*
