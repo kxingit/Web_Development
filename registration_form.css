@@ -1,0 +1,75 @@
+h2 { text-align: center }
+form {
+  /* Just to center the form on the page */
+margin: 0 auto;
+width: 600px;
+	   /* To see the outline of the form */
+padding: 1em;
+border: 1px solid #CCC;
+		border-radius: 1em;
+}
+form div + div {
+  margin-top: 1em;
+}
+label {
+  /* To make sure that all labels have the same size and are properly aligned */
+display: inline-block;
+width: 200px;
+	   text-align: right;
+}
+input, textarea {
+  /* To make sure that all text fields have the same font settings
+	 By default, textareas have a monospace font */
+font: 1em sans-serif;
+
+	  /* To give the same size to all text field */
+	   -moz-box-sizing: border-box;
+	   box-sizing: border-box;
+
+	   /* To harmonize the look & feel of text field border */
+border: 1px solid #999;
+}
+input:focus, textarea:focus {
+		/* To give a little highlight on active elements */
+		border-color: #000;
+	  }
+.button {
+  /* To position the buttons to the same position of the text fields */
+  padding-left: 300; /* same size as the label elements */
+}
+button {
+  /* This extra margin represent roughly the same space as the space
+	 between the labels and their text fields */
+  text-decoration: none;
+  font-family:".LucidaGrandeUI", "Lucida Grande", "Lucida sans unicode";
+color: black;
+	   font-size: 15px;
+padding: 1px 7px;
+border:1px solid #9C9C9C;
+display: inline-block;
+		 background-image: -webkit-linear-gradient(
+#ffffff 0%, #F6F6F6 	30%, 
+#F3F3F3 45%, #EDEDED 	60%, 
+#eeeeee 100%);
+		   border-radius: 3px;
+cursor: default;
+		box-shadow: 0px 0px 1px rgba(0,0,0,0.20);
+}
+select {
+            border:none;
+			            background:#fff;
+  text-decoration: none;
+  font-family:".LucidaGrandeUI", "Lucida Grande", "Lucida sans unicode";
+color: black;
+	   font-size: 15px;
+padding: 1px 7px;
+border:1px solid #9C9C9C;
+display: inline-block;
+		 background-image: -webkit-linear-gradient(
+#ffffff 0%, #F6F6F6     30%,
+#F3F3F3 45%, #EDEDED    60%,
+#eeeeee 100%);
+		   border-radius: 3px;
+cursor: default;
+		box-shadow: 0px 0px 1px rgba(0,0,0,0.20);
+}
