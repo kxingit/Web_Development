@@ -9,7 +9,13 @@ http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/ma
 
 http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/02_ImageBlog/photoBlog.html
 
+<p> 03. an image gallery </p>
 
+http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/03_Image_Gallery/gallery.html
+
+
+TEST
+[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 
 
