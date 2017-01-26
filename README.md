@@ -1,13 +1,13 @@
 # Web_Development
 Click to preview rendered html in this repository.
 
-[01. a mock registration form](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/01_registration_form/registration_form.html)
+01. [a mock registration form](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/01_registration_form/registration_form.html)
 
 
-<p> [02. an image blog](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/02_ImageBlog/photoBlog.html) </p>
+02. [an image blog](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/02_ImageBlog/photoBlog.html)
 
 
-<p> [03. an image gallery](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/03_Image_Gallery/gallery.html) </p>
+03. [an image gallery](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/03_Image_Gallery/gallery.html)
 
 
 
