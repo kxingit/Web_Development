@@ -1,21 +1,14 @@
 # Web_Development
 Click to preview rendered html in this repository.
 
-<p> 01. a mock registration form </p>
-
-http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/01_registration_form/registration_form.html
-
-<p> 02. an image blog </p>
-
-http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/02_ImageBlog/photoBlog.html
-
-<p> 03. an image gallery </p>
-
-http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/03_Image_Gallery/gallery.html
+<p> [01. a mock registration form](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/01_registration_form/registration_form.html) </p>
 
 
-TEST
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+<p> [02. an image blog](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/02_ImageBlog/photoBlog.html) </p>
+
+
+<p> [03. an image gallery](http://htmlpreview.github.io/?https://github.com/kxingit/Web_Development/blob/master/03_Image_Gallery/gallery.html) </p>
+
 
 
 
